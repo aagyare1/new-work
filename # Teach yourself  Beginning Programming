@@ -1,0 +1,11 @@
+
+
+ProgLang= "python "
+Hours = 24
+Name = "Reader" 
+print("We are learning programming basics in what language?")
+print(ProgLang,"!")
+print(Name,"will soon be programming after ", Hours, 'Hours!' )
+
+ 
+ 
